@@ -209,7 +209,7 @@ h1.cursor::after {
 
 
 #home___image{
-	display: auto ;
+	display: block ;
 	margin: 0 auto;
 	object-fit: cover;
 	height:20vh;
