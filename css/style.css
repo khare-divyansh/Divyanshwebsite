@@ -31,16 +31,16 @@ body{
 	height:70%;
 	width:80%;
 	min-width: 500px;
-	max-width: 1200px;
+	max-width: 1000px;
 	margin-right: 0 auto;
 	margin-left: 0 auto;
 	display: flex;
 	flex-direction: column;
-	padding-top: 1px;
+	padding-top: px;
 	justify-content: space-between;
 	margin-top: auto;
 	margin-bottom: auto;
-	box-shadow: 10px 10px 5px #2d67ad;
+	/* box-shadow: 1px 1px 5cap #7b1070; */
 }
 
 
@@ -100,7 +100,7 @@ body{
 .home___tool-bar__entry{
 	font-family: 'VT323', monospace;
 	font-size: 3vh;
-	background-color: white;
+	background-color: var(--white);
 	color:black;
 }
 
@@ -205,6 +205,7 @@ h1.cursor::after {
 	color: var(--licorice);
 	margin-top:1px;
 }
+
 
 
 
