@@ -74,6 +74,3 @@ I'm an aspiring Engineer with working knowledge of database, and machine learnin
 
 
 </div> 
-
-
-Hello geek!
