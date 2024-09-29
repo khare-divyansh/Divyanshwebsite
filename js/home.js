@@ -50,15 +50,19 @@ document.addEventListener("DOMContentLoaded", function(event) {
   //        <div class="typing-output"></div>
 
   var textArray = [
-    "Good to see you here!",
-    "B.Tech CS-AI", 
+    "You're Welcome!", 
     "Student",
-    "Geek!",
-    "Linux- Debian",
-    "AI/ML",
-    "Creative",
+    "Bachelor of Technology",
+    "Python, Java, C",
     "Computer Science",
-    "Python, Java, C"
+    "AI/ML",
+    "Computer Vision",
+    "Linux- Debian",
+    "Drones (UAV's)",
+    "Creative",
+    "Learner",
+    "Geek!"
+
   ]
 
 // values to keep track of the number of letters typed, which quote to use. etc. Don't change these values.
